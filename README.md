@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitAnandMastery17
+- 👋 Hi, I’m Ankit Anand
 - 👀 I’m interested in working on new technologies and building projects.
 - 🌱 I’m currently learning JavaScript and Devops.
 - 💞️ I’m looking to collaborate on JavaScript(Open source projects).
