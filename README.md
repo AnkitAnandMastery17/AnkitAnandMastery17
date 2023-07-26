@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about machine learning and Front-End Development
 -----------------------------------------------------------
 
->I'm Ankit Anand, an enthusiastic individual with a passion for machine learning and front-end development. I strongly believe in "learning in public" and regularly share my experiences and growth through my blog. My focus lies in exploring the limitless potential of artificial intelligence and staying up-to-date with the latest front-end trends and technologies.
+>I'm **Ankit Anand**, an enthusiastic individual with a passion for machine learning and front-end development. I strongly believe in "learning in public" and regularly share my experiences and growth through my blog. My focus lies in exploring the limitless potential of artificial intelligence and staying up-to-date with the latest front-end trends and technologies.
 
 
 # 💫 About Me:
@@ -39,10 +39,10 @@ Passionate about machine learning and Front-End Development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitAnandMastery17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitAnandMastery17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitAnandMastery17&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnkitAnandMastery17&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
