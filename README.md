@@ -8,7 +8,7 @@ Passionate about machine learning and Front-End Development
 
 
 # 💫 About Me:
-🌍  I'm based in India<br>🖥️  See my portfolio at [Github](http://ankitanandmastery17.github.io/) <br>✉️  You can contact me at 7teenfootballer.05@gmail.com<br>🧠  I'm learning Machine Learning Algorithm and Frameworks<br>🤝  I'm open to collaborating on ML/AI, JavaScript<br>⚡  I like to watch Football
+🌍  I'm based in India<br>🖥️  See my portfolio at [Github.io](http://ankitanandmastery17.github.io/) <br>✉️  You can contact me at 7teenfootballer.05@gmail.com<br>🧠  I'm learning Machine Learning Algorithm and Frameworks<br>🤝  I'm open to collaborating on ML/AI, JavaScript<br>⚡  I like to watch Football
 
 # Skills
 
@@ -29,7 +29,7 @@ Passionate about machine learning and Front-End Development
 
 # Socials
 
-<p align="left"> <a href="https://www.github.com/AnkitAnandMastery17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://@Ankit1705.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ankit-anand-mastery/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mastery17Ankit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">  <a href="https://@ankitanandmastery.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ankit-anand-mastery/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mastery17Ankit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # Badges
 
