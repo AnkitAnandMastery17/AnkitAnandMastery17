@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about machine learning and Front-End Development
 -----------------------------------------------------------
 
->I'm **Ankit Anand**, an enthusiastic individual with a passion for machine learning and front-end development. I strongly believe in "learning in public" and regularly share my experiences and growth through my blog. My focus lies in exploring the limitless potential of artificial intelligence and staying up-to-date with the latest front-end trends and technologies.
+>I'm **Ankit Anand**, an enthusiastic individual with a passion for machine learning and front-end development. I strongly believe in **"learning in public"** and regularly share my experiences and growth through my **blog**. My focus lies in exploring the limitless potential of artificial intelligence and staying up-to-date with the latest front-end trends and technologies.
 
 
 # 💫 About Me:
