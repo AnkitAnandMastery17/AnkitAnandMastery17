@@ -34,7 +34,7 @@ Passionate about machine learning and Front-End Development
 # Badges
 
 <b>My GitHub Stats</b><br/>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AnkitAnandMastery17&count_private=true&theme=radical&showicons=true)]()<br/>
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitAnandMastery17&show_icons=true&theme=radical&count_private=true)](https://github.com/AnkitAnandMastery17/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitAnandMastery17&theme=radical&hide_border=false)<br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitAnandMastery17&langs_count=5&theme=radical)]()
 
