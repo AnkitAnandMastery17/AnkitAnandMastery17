@@ -8,9 +8,9 @@ Passionate about Machine learning and Front-End Development
 
 
 # 💫 About Me:
-🌍  I'm based in India.<br>🖥️  See my portfolio at [Github.io](http://ankitanandmastery17.github.io/). <br>✉️  You can contact me at 7teenfootballer.05@gmail.com<br>🧠  I'm learning Machine Learning and Front-End Development.<br>🤝  I'm open to collaborating on AI/Ml, JavaScript, and Python.<br>⚡  I like to watch Football.
+🌍  I'm based in India.<br>  🖥️  See my portfolio at [Github.io](http://ankitanandmastery17.github.io/). <br>✉️  You can contact me at 7teenfootballer.05@gmail.com<br>🧠  I'm learning Machine Learning and Front-End Development.<br>🤝  I'm open to collaborating on AI/Ml, JavaScript, and Python.<br>⚡  I like to watch Football.
 
-# Skills
+# Tech Stack
 
 
 <p align="left">
@@ -27,7 +27,7 @@ Passionate about Machine learning and Front-End Development
 </p>
 
 
-# Socials
+# Connect With Me
 
  <a href="https://www.linkedin.com/in/ankit-anand-mastery/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mastery17Ankit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
