@@ -34,15 +34,15 @@ Passionate about Machine learning and Front-End Development
 # Blog
 <p align="left">  <a href="https://@ankitanandmastery.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
 
-# Badges
+# Stats
 
 <b>My GitHub Stats</b><br/>
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitAnandMastery17&show_icons=true&theme=radical&count_private=true)](https://github.com/AnkitAnandMastery17/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitAnandMastery17&theme=radical&hide_border=false)<br/>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitAnandMastery17&langs_count=5&theme=radical)]()
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnkitAnandMastery17&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+# Badges
+[![An image of @ankitanandmastery17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitanandmastery17)](https://holopin.io/@ankitanandmastery17)
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnkitAnandMastery17&limit=5&theme=radical&combine_all_yearly_contributions=true)
