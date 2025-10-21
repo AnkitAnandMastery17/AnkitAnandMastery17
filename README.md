@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ```bash
 > Booting Conscious Intelligence System v3.1 ...
 > Loading neural creativity modules ...
@@ -41,8 +39,6 @@ Transform any image prompt into its *semantic opposite* and visualize it through
 🌱 I believe the next wave of AI is not just automation —  
 it’s **awareness**, **intentional creation**, and **symbiotic intelligence**.
 
-
----
   
 ## 🌳 Current Focus
 
@@ -68,7 +64,7 @@ it’s **awareness**, **intentional creation**, and **symbiotic intelligence**.
 
 ---
 
-## 🌸 Connect & Collaborate
+## ✌️ Connect & Collaborate
  • [💼 LinkedIn](https://linkedin.com/in/ankitanand) • [🐦 X (Twitter)](https://x.com/ankitanandai) 
  
 > — *Ankit Anand*
