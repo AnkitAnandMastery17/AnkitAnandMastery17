@@ -23,7 +23,7 @@
 🧠 Designing the intersection of **AI + Creativity + Conscious Tech**
 
 
-✨ **Latest Creation:** [Opposite Prompt Generator](https://github.com/AnkitAnandMastery17/Opposite-Prompt-Generator---Semantic-Inversion-Tool)  
+✨ **Latest Creation:** [Semantic Inversion Tool](https://github.com/AnkitAnandMastery17/Opposite-Prompt-Generator---Semantic-Inversion-Tool)  
 Transform any image prompt into its *semantic opposite* and visualize it through AI-generated art.  
 > “bright sunny beach” → “dark rainy forest” 🌧️  
 > “cute fluffy puppy” → “fierce scaly dragon” 🐉  
