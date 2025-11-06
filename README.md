@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00FFCC&center=true&vCenter=true&width=600&lines=👋+Hello+World;I'm+Ankit+Anand;Full+Stack+Developer;AI+Developer;Building+Conscious+Intelligence;Welcome+To+My+Profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00FFCC&center=true&vCenter=true&width=600&lines=👋+Namaste;I'm+Ankit+Anand;Full+Stack+Developer;AI+Developer;Building+Conscious+Intelligence;Welcome+To+My+Profile)
 
 </div>
 
